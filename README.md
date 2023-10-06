@@ -29,7 +29,8 @@ Google Colab:  Less than 10 seconds due to automatic installation of latest Pand
     pip install -r requirements.txt
 
 * Run script on local machine as follows: 
-    * Open a terminal and navigate to "RMB-CPI-Nowcasting-Challenge" directory.
+    * Create a directory and add the script "cpi_predictor_local_machine.py" and data file "input_cpi_values.csv".
+    * Open a terminal and navigate to the directory.
     * Run the command: python cpi_predictor_local_machine.py
 
 * Alternativelly, run the script in Google Colab as follows:  
